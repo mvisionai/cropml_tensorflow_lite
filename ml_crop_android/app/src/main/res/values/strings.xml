@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Crop ML</string>
+
+
+    <string-array name="crop_label">
+        <item>Okro</item>
+        <item>Onion</item>
+        <item>Tomato</item>
+    </string-array>
+</resources>
